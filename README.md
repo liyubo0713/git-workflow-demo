@@ -12,6 +12,7 @@
 
 - 加法：`add(a, b)`
 - 减法：`subtract(a, b)`
+- 除法：`divide(a, b)`
 
 ## 运行方式
 
@@ -26,4 +27,5 @@ python calculator.py
 ```text
 2 + 3 = 5
 5 - 3 = 2
+6 / 2 = 3.0
 ```
